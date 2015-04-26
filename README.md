@@ -1,2 +1,2 @@
 # datasciencecoursera
-course era project assignment
+github.com/sindhurao9/datasciencecoursera
